@@ -12,10 +12,11 @@ This repository contains my **daily Python practice** as I follow my Python Deve
 - Lists, Tuples  
 - OOP  
 - File Handling  
-- Projects  
-
+- Projects
+- 
 ## 🔥 My Goal  
-On a journey to reach a ₹1,00,000/month Python Developer career through consistency and real-world practice.
+On a journey to become a strong Python, Machine Learning, and AI practitioner through daily learning and hands-on projects.
+
 
 ## 📅 Daily Uploads  
 Every day I upload my practice files here to track my progress publicly.
